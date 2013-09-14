@@ -1,0 +1,65 @@
+!!!html
+%head
+  %meta(charset="utf-8")
+  %meta(name="generator" content="nanoc 3.1.6")
+  %title
+    Alan Baird - 
+    = @item[:title]
+  -#%link(href="/assets/css/bootstrap.css" media="screen" rel="stylesheet" type="text/css")
+  = ga_tracking_snippet("UA-39705570-1")
+  %link{:rel => "stylesheet", :href => "/bootstrap.css"} 
+  :css
+    body {
+      padding-top: 60px;
+      padding-bottom: 30px;
+    }
+  /[if IE]
+    %link(href="/stylesheets/ie.css" media="screen, projection" rel="stylesheet" type="text/css")
+  %body
+    .navbar.navbar-inverse.navbar-fixed-top
+      .navbar-inner
+        .container
+          %a{:class => "brand", :href => "/"}Alan Baird
+          %ul(class="nav")
+            %li
+              %a(href="/") Home
+            %li
+              %a(href="/research") Research
+            %li
+              %a(href="/publications") Publications
+            %li
+              %a(href="/links") Links
+            %li
+              %a(href="/contact") Contact
+    .container
+      .content
+        .row
+          .span8
+            = yield
+          .span4
+            .well.sidebar-nav
+              %a(href='http://bristol.ac.uk')
+                %img(src="/images/logo-uob.png")
+              <br><br><br>
+              %a(href='http://www.bristol.ac.uk/earthsciences/')
+                %img(src="/images/DoES_logo.png")
+              <br><br><br>
+              %a(href='http://www1.gly.bris.ac.uk/BUMPS/')
+                %img(src="/images/BUMPS-logo.png")
+        .row
+          .span12
+            %hr
+            %footer 
+              .breadcrumb
+                - breadcrumbs_trail.each do |item|
+                  - if @item == item
+                    = @item[:nav] || @item[:title]
+                  - else
+                    - if item  # skip nil items which are gaps in the path
+                      = link_to(item[:nav] || item[:title], item.rep_named(:default))
+                  \/
+                %p
+                  Copyright &copy; Alan F. Baird. Last modified: 
+                  = get_pretty_date(item)
+  %script(src="/bootstrap.js")
+

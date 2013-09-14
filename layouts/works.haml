@@ -1,0 +1,61 @@
+!!!html
+%head
+  %meta(charset="utf-8")
+  %meta(name="generator" content="nanoc 3.1.6")
+  %title
+    Alan Baird - 
+    = @item[:title]
+  -#%link(href="/assets/css/bootstrap.css" media="screen" rel="stylesheet" type="text/css")
+  %link{:rel => "stylesheet", :href => "/bootstrap.css"} 
+  :css
+    body {
+      padding-top: 60px;
+      padding-bottom: 30px;
+    }
+  /[if IE]
+    %link(href="/stylesheets/ie.css" media="screen, projection" rel="stylesheet" type="text/css")
+  %body
+    .navbar.navbar-inverse.navbar-fixed-top
+      .navbar-inner
+        .container
+          %a{:class => "brand", :href => "/"}Alan Baird
+          %ul(class="nav")
+            %li
+              %a(href="/") Home
+            %li
+              %a(href="/research") Research
+            %li
+              %a(href="/publications") Publications
+    .container
+      .content
+        .row
+          .span9
+            .well
+              = yield
+          .span3
+            .well.sidebar-nav
+              %img(src="/logo-uob.svg")
+              %ul{:class => "nav nav-list"}
+                %li(class="nav-header") List Header
+                %li
+                  %a(href="/") Home
+                %li
+                  %a(href="/research") Research
+                %li
+                  %a(href="/publications") Publications
+            %a
+              Secondary content
+        .row
+          .span12
+            %hr
+            %footer
+              %p
+                Copyright &copy; Alan Baird 2012. Last modified: 
+                = get_pretty_date(item) 
+              .breadcrumb
+                - unless @item.reps[0].path == "/"
+                  - breadcrumbs_trail.each do |b|
+                    = link_to_unless_current(  b[:title] , b.reps[0].path ) if b
+                    = b != @item ? '»' : ''
+  %script(src="/bootstrap.js")
+

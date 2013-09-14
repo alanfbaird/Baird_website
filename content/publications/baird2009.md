@@ -1,0 +1,16 @@
+---
+title: "Baird et al. (2009)"
+nav: Baird et al. (2009)
+---
+
+##Stress channelling and partitioning of seismicity in the Charlevoix seismic zone, Québec, Canada
+
+####[Alan F. Baird](http://www1.gly.bris.ac.uk/~baird/), [Stephen D. McKinnon](http://www.mine.queensu.ca/People/faculty/SteveMckinnon.html), and [Laurent Godin](http://www.geol.queensu.ca/faculty/fac-godin/)
+Geophysical Journal International 179 (1), 559–568, 2009.
+
+**Availability:**
+
+- Published version: [doi:10.1111/j.1365-246X.2009.04275.x](http://dx.doi.org/10.1111/j.1365-246X.2009.04275.x)
+- [Preprint](/pdfs/baird_etal_2009.pdf) 
+
+**Abstract** The Charlevoix seismic zone (CSZ) in the St Lawrence valley of Québec is historically the most active in eastern Canada. The structurally complex region comprises rift faults formed during the opening of the Iapetus Ocean, superimposed by a 350 Ma meteorite impact structure, resulting in a circular highly fractured zone. Although seismicity is localized along two steeply dipping planar rift-parallel zones, previous work indicates that most of the large-scale rift faults bound the low magnitude background seismicity rather than generate earthquakes themselves. In order to gain insight into the mechanics of the partitioning of this seismicity, a 2-D model of the CSZ was built using the stress analysis code FLAC. The rift faults are represented by frictional discontinuities. The heavily fractured impact structure is represented by an elastic continuum of reduced modulus. Boundary displacements are used to generate a regional stress field with the major horizontal component in the direction of tectonic loading. Given a high strength, the rift faults have little effect on the stress patterns. Stress trajectories naturally flow around the crater of reduced elastic modulus, leaving the fractured area with lower stresses than the background level. However, when the rift faults have low strength, they are unable to support stress trajectories inclined to them, due to the resolved shear stress exceeding their strength. This prevents trajectories from flowing out of the rift, effectively channelling higher magnitude stresses into the region of the impact structure between the faults. Low-strength bounding faults can thus explain the localization of seismicity into linear bands, rather than distributed seismicity throughout the impact structure. It also explains how the rift faults act as boundaries to regions of low magnitude seismicity. These results indicate that the interplay between faults of varying strength and zones of differing elastic modulus can give rise to complicated stress patterns, and can explain many of the seismicity patterns observed in the CSZ. This has implications for other intraplate seismic zones, as it shows an example of how regional weak faults can modify stress conditions around local structures and drive seismicity. The results are particularly relevant for other regions located within rifted crust, such as the New Madrid seismic zone, which possibly display evidence of stress channelling.

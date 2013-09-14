@@ -1,0 +1,149 @@
+!!!html
+%head
+  %meta(charset="utf-8")
+  %meta(name="generator" content="nanoc 3.1.6")
+  %title
+    Alan Baird - 
+    = @item[:title]  
+  = ga_tracking_snippet("UA-39705570-1")    
+  %meta{:content => "width=device-width, initial-scale=1.0", :name => "viewport"}  
+  %link{:rel => "stylesheet", :href => "/assets/css/bootstrap.css"}   
+  %link{:href => "http://fonts.googleapis.com/css?family=Vollkorn:400italic,400", :rel => "stylesheet", :type => "text/css"}
+  %link{:href => 'http://fonts.googleapis.com/css?family=Gentium+Book+Basic', :rel => "stylesheet", :type => "text/css"}
+
+  :css
+    /* Sticky footer styles
+    -------------------------------------------------- */
+
+    html,
+    body {
+      height: 100%;
+      /* The html and body elements cannot have any padding or margin. */
+    }
+
+    /* Wrapper for page content to push down footer */
+    #wrap {
+      min-height: 100%;
+      height: auto !important;
+      height: 100%;
+      /* Negative indent footer by it's height */
+      margin: 0 auto -80px;
+    }
+
+    /* Set the fixed height of the footer here */
+    #push,
+    #footer {
+      height: 80px;
+    }
+    #footer {
+      background-color: #f5f5f5;
+    }
+
+    /* Lastly, apply responsive CSS fixes as necessary */
+    @media (max-width: 767px) {
+      #footer {
+        margin-left: -20px;
+        margin-right: -20px;
+        padding-left: 20px;
+        padding-right: 20px;
+      }
+    }
+    
+    img[alt=Bairdphoto] { width: 400px; }
+
+
+
+    /* Custom page CSS
+    -------------------------------------------------- */
+    /* Not required for template or sticky footer method. */
+
+    #wrap > .container {
+      padding-top: 60px;
+    }
+    .container .credit {
+      margin: 20px 0;
+    }
+
+    code {
+      font-size: 80%;
+    }
+  /[if IE]
+    %link(href="/stylesheets/ie.css" media="screen, projection" rel="stylesheet" type="text/css")
+  %body
+    / Part 1: Wrap all page content here
+    #wrap
+      .navbar.navbar.navbar-fixed-top
+        .navbar-inner
+          .container
+            %button.btn.btn-navbar{"data-target" => ".nav-collapse", "data-toggle" => "collapse"}
+              %span.icon-bar
+              %span.icon-bar
+              %span.icon-bar
+              
+            %a{:class => "brand", :href => "/"}Alan Baird
+            .nav-collapse.collapse
+              %ul.nav
+                - if @item[:title] == "Research"
+                  %li.active=link_to("Research","/research/")
+                - else
+                  %li=link_to("Research","/research/")
+                - if @item[:title] == "Publications"
+                  %li.active=link_to("Publications","/publications/")
+                - else
+                  %li=link_to("Publications","/publications/")
+                - if @item[:title] == "Links"
+                  %li.active=link_to("Links","/links/")
+                - else
+                  %li=link_to("Links","/links/")
+                - if @item[:title] == "Contact"
+                  %li.active=link_to("Contact","/contact/")
+                - else
+                  %li=link_to("Contact","/contact/")
+      .container
+        .content
+          .row
+            .span8
+              = yield
+            .hidden-phone
+              .span4
+                #sidebar
+                  .well.sidebar-nav.text-center
+                    %a(href='http://bristol.ac.uk')
+                      %img{:src => "/images/logo-uob.png", :width=>"250"}
+                    <br><br><br>
+                    %a(href='http://www.bristol.ac.uk/earthsciences/')
+                      %img{:src => "/images/DoES_logo.png", :width=>"250"}
+                    <br><br><br>
+                    %a(href='http://www1.gly.bris.ac.uk/BUMPS/')
+                      %img{:src => "/images/BUMPS-logo.png", :width=>"250"}
+      #push
+    #footer 
+      .container
+        .breadcrumb
+          - breadcrumbs_trail.each do |item|
+            - if @item == item
+              %li.active
+                = @item[:nav] || @item[:title]
+            - else
+              - if item  # skip nil items which are gaps in the path
+                %li
+                  = link_to(item[:nav] || item[:title], item.rep_named(:default))
+                  %span.divider /
+          %p.muted
+            Copyright &copy; Alan F. Baird. Last modified: 
+            = get_pretty_date(item) 
+  %script{:src => "http://code.jquery.com/jquery.js"}
+  %script{:src => "/assets/js/bootstrap-affix.js"}
+  %script{:src => "/assets/js/bootstrap-alert.js"}
+  %script{:src => "/assets/js/bootstrap-button.js"}
+  %script{:src => "/assets/js/bootstrap-carousel.js"}
+  %script{:src => "/assets/js/bootstrap-collapse.js"}
+  %script{:src => "/assets/js/bootstrap-dropdown.js"}
+  %script{:src => "/assets/js/bootstrap-modal.js"}
+  %script{:src => "/assets/js/bootstrap-popover.js"}
+  %script{:src => "/assets/js/bootstrap-scrollspy.js"}
+  %script{:src => "/assets/js/bootstrap-tab.js"}
+  %script{:src => "/assets/js/bootstrap-tooltip.js"}
+  %script{:src => "/assets/js/bootstrap-transition.js"}
+  %script{:src => "/assets/js/bootstrap-typeahead.jsjs"}
+  
