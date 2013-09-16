@@ -51,8 +51,8 @@
     }
 
     #footer > .container {
-      padding-left: 15px;
-      padding-right: 15px;
+      padding-left: 0px;
+      padding-right: 0px;
     }
 
     code {
@@ -96,7 +96,7 @@
     
     #footer 
       .container
-        .breadcrumb
+        %ol.breadcrumb
           - breadcrumbs_trail.each do |item|
             - if @item == item
               %li.active
