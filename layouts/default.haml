@@ -26,31 +26,17 @@
       min-height: 100%;
       height: auto !important;
       height: 100%;
-      /* Negative indent footer by it's height */
-      margin: 0 auto -80px;
+      /* Negative indent footer by its height */
+      margin: 0 auto -90px;
+      /* Pad bottom by footer height */
+      padding: 0 0 90px;
     }
 
     /* Set the fixed height of the footer here */
-    #push,
     #footer {
-      height: 80px;
-    }
-    #footer {
+      height: 90px;
       background-color: #f5f5f5;
     }
-
-    /* Lastly, apply responsive CSS fixes as necessary */
-    @media (max-width: 767px) {
-      #footer {
-        margin-left: -20px;
-        margin-right: -20px;
-        padding-left: 20px;
-        padding-right: 20px;
-      }
-    }
-    
-    img[alt=Bairdphoto] { width: 400px; }
-
 
 
     /* Custom page CSS
@@ -58,53 +44,56 @@
     /* Not required for template or sticky footer method. */
 
     #wrap > .container {
-      padding-top: 60px;
+      padding: 60px 15px 0;
     }
     .container .credit {
       margin: 20px 0;
     }
 
+    #footer > .container {
+      padding-left: 15px;
+      padding-right: 15px;
+    }
+
     code {
       font-size: 80%;
     }
-  /[if IE]
-    %link(href="/stylesheets/ie.css" media="screen, projection" rel="stylesheet" type="text/css")
+    
+    img[alt=Bairdphoto] { width: 400px; }
+
   %body
     / Part 1: Wrap all page content here
     #wrap
       %nav.navbar.navbar-default.navbar-fixed-top{:role => "navigation"}
-        .navbar-inner
-          .container
-            %button.btn.btn-navbar{"data-target" => ".nav-collapse", "data-toggle" => "collapse"}
+        .container
+          .navbar-header
+            %button.navbar-toggle{"data-target" => ".navbar-collapse", "data-toggle" => "collapse", :type => "button"}
               %span.icon-bar
               %span.icon-bar
               %span.icon-bar
-              
-            %a{:class => "brand", :href => "/"}Alan Baird
-            .nav-collapse.collapse
-              %ul.nav
-                - if @item[:title] == "Research"
-                  %li.active=link_to("Research","/research/")
-                - else
-                  %li=link_to("Research","/research/")
-                - if @item[:title] == "Publications"
-                  %li.active=link_to("Publications","/publications/")
-                - else
-                  %li=link_to("Publications","/publications/")
-                - if @item[:title] == "Links"
-                  %li.active=link_to("Links","/links/")
-                - else
-                  %li=link_to("Links","/links/")
-                - if @item[:title] == "Contact"
-                  %li.active=link_to("Contact","/contact/")
-                - else
-                  %li=link_to("Contact","/contact/")
+            %a.navbar-brand{:href => "/"}Alan Baird
+          .collapse.navbar-collapse
+            %ul.nav.navbar-nav
+              - if @item[:title] == "Research"
+                %li.active=link_to("Research","/research/")
+              - else
+                %li=link_to("Research","/research/")
+              - if @item[:title] == "Publications"
+                %li.active=link_to("Publications","/publications/")
+              - else
+                %li=link_to("Publications","/publications/")
+              - if @item[:title] == "Links"
+                %li.active=link_to("Links","/links/")
+              - else
+                %li=link_to("Links","/links/")
+              - if @item[:title] == "Contact"
+                %li.active=link_to("Contact","/contact/")
+              - else
+                %li=link_to("Contact","/contact/")
       .container
         .content
-          .row
-            .span8
-              = yield
-      #push
+          = yield
+    
     #footer 
       .container
         .breadcrumb
