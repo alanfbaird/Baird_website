@@ -42,8 +42,14 @@ route '/assets/js/*/' do
   @item.identifier.chop + '.' + @item[:extension]
 end
 
+
 route '/assets/less/*/' do
   # don't copy over
+end
+
+route '/assets/*' do
+  # /static/foo.html/ → /foo.html
+  item.identifier[7..-2]
 end
 
 
