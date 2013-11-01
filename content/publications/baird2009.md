@@ -6,7 +6,7 @@ nav: Baird et al. (2009)
 ##Stress channelling and partitioning of seismicity in the Charlevoix seismic zone, Québec, Canada
 
 ####[Alan F. Baird](http://www1.gly.bris.ac.uk/~baird/), [Stephen D. McKinnon](http://www.mine.queensu.ca/People/faculty/SteveMckinnon.html), and [Laurent Godin](http://www.geol.queensu.ca/faculty/fac-godin/)
-Geophysical Journal International 179 (1), 559–568, 2009.
+Geophysical Journal International 179 (1), 559–-568, 2009.
 
 **Availability:**
 

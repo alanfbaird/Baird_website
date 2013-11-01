@@ -6,8 +6,7 @@ title: Publications
 
 ###Published Journal Articles
 -   **Baird, A. F.**, Kendall, J-M., Verdon, J. P., Wuestefeld, A., Noble, T. E., Li Y., Dutko, M., Fisher, Q. J., 2013.
-    [Monitoring increases in fracture connectivity during hydraulic stimulations from temporal variations in shear-wave splitting polarization](/publications/baird2013a). Geophysical
-    Journal International.
+    [Monitoring increases in fracture connectivity during hydraulic stimulations from temporal variations in shear-wave splitting polarization](/publications/baird2013a). Geophysical Journal International 195 (2), 1120--1131.
     doi:[10.1093/gji/ggt274](http://dx.doi.org/10.1093/gji/ggt274)
 
 -   Harland, S. R., Kendall, J-M., Stuart, G., Lloyd, G., **Baird, A. F.**, 
@@ -17,7 +16,7 @@ title: Publications
 
 -   **Baird, A. F.**, Kendall, J-M., Angus, D., 2013.
     [Frequency dependent seismic anisotropy due to fractures: Fluid flow
-    versus scattering](/publications/baird2013). Geophysics 78 (2), WA11–WA122.
+    versus scattering](/publications/baird2013). Geophysics 78 (2), WA111-–WA122.
     doi:[10.1190/geo2012-0288.1](http://dx.doi.org/10.1190/geo2012-0288.1)
 
 -   **Baird, A. F.**, McKinnon, S. D., Godin, L., 2010. [Relationship
@@ -29,13 +28,12 @@ title: Publications
 
 -   **Baird, A. F.**, McKinnon, S. D., Godin, L., 2009. [Stress
     channelling and partitioning of seismicity in the Charlevoix seismic
-    zone, Québec, Canada.](/publications/baird2009) Geophysical Journal International 179 (1),
-    559–568.    
+    zone, Québec, Canada.](/publications/baird2009) Geophysical Journal International 179 (1), 559–568.    
     doi:[10.1111/j.1365-246X.2009.04275.x](http://dx.doi.org/10.1111/j.1365-246X.2009.04275.x)
 
 -   **Baird, A. F.**, McKinnon, S. D., 2007. [Linking stress field
     deflection to basement structures in southern Ontario: Results from
-    numerical modelling](/publications/baird2007). Tectonophysics 432 (1-4), 89–100.
+    numerical modelling](/publications/baird2007). Tectonophysics 432 (1-4), 89--100.
     doi:[10.1016/j.tecto.2006.12.002](http://dx.doi.org/10.1016/j.tecto.2006.12.002)
     
 ###In Review or in Preparation

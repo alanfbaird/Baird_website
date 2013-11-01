@@ -7,7 +7,7 @@ nav: Baird et al. (2013)
 
 
 ####[Alan F. Baird](http://www1.gly.bris.ac.uk/~baird/), [J.-Michael Kendall](http://www1.gly.bris.ac.uk/~jmk/), [ James P. Verdon](www1.gly.bris.ac.uk/~JamesVerdon/‎), Andreas Wuestefeld, Todd E. Noble, Yongyi Li, Martin Dutko, and [Quentin J. Fisher](http://www.see.leeds.ac.uk/people/q.fisher)
-Geophysical Journal International
+Geophysical Journal International 195 (2), 1120--1131.
 
 **Availability:**
 
