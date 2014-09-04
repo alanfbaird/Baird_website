@@ -3,9 +3,9 @@ title: "Baird & McKinnon (2007)"
 nav: Baird & McKinnon (2007)
 ---
 
-##Linking stress field deflection to basement structures in southern Ontario: Results from numerical modelling
+###Linking stress field deflection to basement structures in southern Ontario: Results from numerical modelling
 
-####[Alan F. Baird](http://www1.gly.bris.ac.uk/~baird/) and [Stephen D. McKinnon](http://www.mine.queensu.ca/People/faculty/SteveMckinnon.html)
+[Alan F. Baird](http://www1.gly.bris.ac.uk/~baird/) and [Stephen D. McKinnon](http://www.mine.queensu.ca/People/faculty/SteveMckinnon.html)
 Tectonophysics 432 (1-4), 89--100, 2007.
 
 **Availability:**

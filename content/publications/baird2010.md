@@ -3,9 +3,9 @@ title: "Baird et al. (2010)"
 nav: Baird et al. (2010)
 ---
 
-##Relationship between structures, stress and seismicity in the Charlevoix seismic zone revealed by 3-D geomechanical models: Implications for the seismotectonics of continental interiors
+###Relationship between structures, stress and seismicity in the Charlevoix seismic zone revealed by 3-D geomechanical models: Implications for the seismotectonics of continental interiors
 
-####[Alan F. Baird](http://www1.gly.bris.ac.uk/~baird/), [Stephen D. McKinnon](http://www.mine.queensu.ca/People/faculty/SteveMckinnon.html), and [Laurent Godin](http://www.geol.queensu.ca/faculty/fac-godin/)
+[Alan F. Baird](http://www1.gly.bris.ac.uk/~baird/), [Stephen D. McKinnon](http://www.mine.queensu.ca/People/faculty/SteveMckinnon.html), and [Laurent Godin](http://www.geol.queensu.ca/faculty/fac-godin/)
 Journal of Geophysical Research 115, B11402, 2010.
 
 **Availability:**

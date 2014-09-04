@@ -2,7 +2,7 @@
 title: Home
 ---
 
-#Alan F. Baird
+##Alan F. Baird
 
 ####Postdoctoral Reseach Assistant
 

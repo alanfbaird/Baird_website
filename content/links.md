@@ -2,7 +2,7 @@
 title: Links
 ---
 
-#Links
+##Links
 
 ###Research Groups and Projects
 
@@ -10,9 +10,9 @@ title: Links
   Bristol University Microseismicity Project.
 - [*FracGas*](http://www.see.leeds.ac.uk/research/igt/research-projects/fracgas/)  
   Improved hydraulic fracture stimulation using FE modelling and microseismic monitoring.
-- [*GESER*](http://www.see.leeds.ac.uk/research/igt/geser/index.htm)    
+- *GESER*    
   Enhanced integrated geomechanics-seismic modelling for tight-gas sand reservoirs (industry funded consortium).
-- [*Bristol Geophysics Group*](http://www1.gly.bris.ac.uk/geophysics/index.htm)
+- [*Bristol Geophysics Group*](http://www.bris.ac.uk/earthsciences/research/geophysics/)
 
 
 ###Collaborators

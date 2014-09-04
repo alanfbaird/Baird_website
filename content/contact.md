@@ -2,7 +2,7 @@
 title: Contact
 ---
 
-#Contact information
+##Contact information
 
 
 ####**Dr. Alan F. Baird**  

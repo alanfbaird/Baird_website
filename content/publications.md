@@ -2,9 +2,12 @@
 title: Publications
 ---
 
-#Publications
+##Publications
 
 ###Published Journal Articles
+-   Kendall, J-M., Verdon, J. P., **Baird, A. F.**, 2014.
+    [Evaluating fracture-induced anisotropy using borehole microseismic data](/publications/kendall2014). CSEG Recorder 39 (2), 56--63.
+
 -   **Baird, A. F.**, Kendall, J-M., Verdon, J. P., Wuestefeld, A., Noble, T. E., Li Y., Dutko, M., Fisher, Q. J., 2013.
     [Monitoring increases in fracture connectivity during hydraulic stimulations from temporal variations in shear-wave splitting polarization](/publications/baird2013a). Geophysical Journal International 195 (2), 1120--1131.
     doi:[10.1093/gji/ggt274](http://dx.doi.org/10.1093/gji/ggt274)
@@ -38,8 +41,9 @@ title: Publications
     
 ###In Review or in Preparation
 
--   **Baird, A. F.**, McKinnon, S. D., Godin, L., in prep 2013. Broad
-    deformation zone model of eastern North American seismicity.
+-   **Baird, A. F.**, in prep 2014. Investigating stress and seismicity in the Charlevoix seismic zone, evidence from seismic anisotropy.
+
+-   **Baird, A. F.**, Kendall, J-M., Sparks, R. S. J., Baptie, B., in prep 2014. Shear wave splitting of volcano-tectonic events in Montserrat.
     
 ###Other Publications
 
@@ -47,9 +51,13 @@ title: Publications
     
 ###Expanded Abstracts
 
+-   **Baird, A. F.**, Verdon, J. P., Kendall, J-M., Foord, G., Stork, A. and Usher, P. J., 2014. Field Estimates of Fracture Compliances using Active and Passive Seismics. Fifth EAGE Passive Seismic Workshop, Lisbon, Portugal.
+
+-   **Baird, A. F.**, Verdon, J.P., and Kendall, J-M., 2013. Monitoring the Evolution of Fracture Compliances During Hydraulic Stimulation Using Passive Seismic Data. 75th EAGE Conference and Exhibition, London, UK.
+
 -   **Baird, A. F.**, Verdon, J. P., Kendall, J.-M., 2013. Tracking Fracks: 
     Evolution of Fracture Normal/Tangential Compliance During Hydraulic 
-    Fracture Stimulation. 4th EAGE Passive Seismic Workshop, Amsterdam, Netherlands.    
+    Fracture Stimulation. Fourth EAGE Passive Seismic Workshop, Amsterdam, Netherlands.    
 
 -   Fisher, Q. J., Kendall, J.-M., Verdon, J. P., **Baird, A.**, Hudson,
     M., 2012. Monitoring and modelling hydraulic fracture stimulation:
@@ -73,7 +81,9 @@ title: Publications
     UK, February 2011. *Title:* Partitioning of Stress and Seismicity in
     The Charlevoix seismic zone, Québec, Canada
 
-###Selected Conference Talks
+###Selected Conference Talks and Posters
+-   **Baird, A. F.**, Bastow, I. D., 2013. Investigating stress and seismicity in the Charlevoix seismic zone,
+    evidence from seismic anisotropy. Poster presented at AGU 2013 fall meeting, San Francisco. Abstract DI11A-2165. [Poster PDF](/pdfs/Baird_AGU_2013.pdf)
 
 -   **Baird, A.**, Angus, D. A., Kendall, J.-M., 2011. Frequency
     dependent seismic anisotropy due to fracture related fluid flow
@@ -90,11 +100,6 @@ title: Publications
     Model. Presented at AGU 2009 Joint Assembly, Toronto, Canada.
     Abstract G11C-06.
 
--   **Baird, A.**, McKinnon, S. D., Godin, L., 2009. A three-dimensional
-    geodynamic model of the Charlevoix seismic zone, Quebec. Talk
-    Presented at the Advances in Earth Science Research Conference,
-    Kingston, Ontario, Canada.
-
 -   **Baird, A. F.**, McKinnon, S. D., Godin, L., 2008. Stress
     channelling and partitioning of seismicity in the Charlevoix seismic
     zone, Québec,. Presented at the Seismological Society of America,
@@ -110,11 +115,9 @@ title: Publications
     Canada.
 
 -   **Baird, A.**, McKinnon, S. D., 2004. Modelling crustal stress in
-    Southern Ontario. Presented at AGU 2004 fall meeting. EOS,
-    Transactions, American Geophysical Union, 85 (47, Suppl.), Abstract
+    Southern Ontario. Presented at AGU 2004 fall meeting. Abstract
     S32B-03.
 
 -   **Baird, A.**, McKinnon, S. D., 2004. Stability of Crustal Faults in
     Southern Ontario Inferred From Stress Data. Presented at AGU 2004
-    Joint Assembly, Montréal, Canada. EOS, Transactions, American
-    Geophysical Union, 85 (17, Suppl.), Abstract S24A-04.
+    Joint Assembly, Montréal, Canada. Abstract S24A-04.

@@ -3,9 +3,9 @@ title: "PhD Thesis (2010)"
 nav: Baird PhD Thesis (2010)
 ---
 
-##Crustal Stresses and Seismicity in Intraplate Settings: Relationship to Geology and Driving Forces 
+###Crustal Stresses and Seismicity in Intraplate Settings: Relationship to Geology and Driving Forces 
 
-####[William Alan Frank Baird](http://www1.gly.bris.ac.uk/~baird/)
+[William Alan Frank Baird](http://www1.gly.bris.ac.uk/~baird/)
 PhD thesis, Queen’s University, April 2010.
 
 **Availability:**

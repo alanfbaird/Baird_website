@@ -2,7 +2,7 @@
 title: Research
 ---
 
-#Research
+##Research
 
 ##Linked-seismic and geomechanical modelling of petroleum reservoirs
 
