@@ -6,7 +6,7 @@ title: Publications
 
 ###Published Journal Articles
 -   Kendall, J-M., Verdon, J. P., **Baird, A. F.**, 2014.
-    [Evaluating fracture-induced anisotropy using borehole microseismic data](/publications/kendall2014). CSEG Recorder 39 (2), 56--63.
+    [Evaluating fracture-induced anisotropy using borehole microseismic data](/publications/Kendall2014). CSEG Recorder 39 (2), 56--63.
 
 -   **Baird, A. F.**, Kendall, J-M., Verdon, J. P., Wuestefeld, A., Noble, T. E., Li Y., Dutko, M., Fisher, Q. J., 2013.
     [Monitoring increases in fracture connectivity during hydraulic stimulations from temporal variations in shear-wave splitting polarization](/publications/baird2013a). Geophysical Journal International 195 (2), 1120--1131.
