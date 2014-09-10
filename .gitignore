@@ -1,3 +1,4 @@
 crash.log
 /tmp/*
 /output/*
+/content/assets/css/*
