@@ -4,14 +4,14 @@ title: Home
 
 ##Alan F. Baird
 
-####Postdoctoral Reseach Assistant
+####Postdoctoral Reseach Associate
 
-<img src="/images/bairdphoto.jpg" class="img-rounded" alt="Bairdphoto">
+<img src="/images/bairdphoto.jpg" class="img-responsive img-rounded center-block" alt="Bairdphoto">
 
 
 ### About Me
 
-I am a postdoctoral research assistant working as part of the 
+I am a postdoctoral research associate working as part of the 
 [geophysics group](http://www1.gly.bris.ac.uk/geophysics/index.htm) 
 in the [School of Earth Sciences](http://www.bristol.ac.uk/earthsciences/) 
 at the [University of Bristol](http://www.bristol.ac.uk). My research 
