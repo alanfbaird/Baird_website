@@ -10,6 +10,7 @@ title: Home
 
 ![Bairdphoto](/images/bairdphoto.jpg){: class="img-responsive img-rounded center-block"}
 
+
 ### About Me
 
 I am a postdoctoral research associate working as part of the 
