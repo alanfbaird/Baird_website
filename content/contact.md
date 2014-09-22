@@ -5,7 +5,7 @@ title: Contact
 ##Contact information
 
 
-####**Dr. Alan F. Baird**  
+####Dr. Alan F. Baird  
 School of Earth Sciences  
 University of Bristol  
 Wills Memorial Building  
