@@ -3,11 +3,12 @@ title: Home
 ---
 
 ##Alan F. Baird
+{: align="center"}
 
 ####Postdoctoral Reseach Associate
+{: align="center"}
 
-<img src="/images/bairdphoto.jpg" class="img-responsive img-rounded center-block" alt="Bairdphoto">
-
+![Bairdphoto](/images/bairdphoto.jpg){: class="img-responsive img-rounded center-block"}
 
 ### About Me
 
