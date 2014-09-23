@@ -1,64 +1,65 @@
-!!!html
-%head
-  %meta(charset="utf-8")
-  %meta{:content => "nanoc #{Nanoc::VERSION}", :name => "generator"}
-  %title
-    Alan Baird - 
-    = @item[:title]  
-  = ga_tracking_snippet("UA-39705570-1")    
-  %meta{:content => "width=device-width, initial-scale=1.0", :name => "viewport"}  
-  %link{:rel => "stylesheet", :href => "/assets/css/bootstrap.css"}   
-  %link{:rel => "stylesheet", :href => "/assets/css/baird.css"}   
-  %link{:rel => "shortcut icon", :href => "http://www.gly.bris.ac.uk/favicon.ico"}   
-  %body
-    / Part 1: Wrap all page content here
-    #wrap
-      %nav.navbar.navbar-default.navbar-fixed-top{:role => "navigation"}
+!!!
+%html{:lang => "en"}
+  %head
+    %meta(charset="utf-8")
+    %meta{:content => "nanoc #{Nanoc::VERSION}", :name => "generator"}
+    %title
+      Alan Baird - 
+      = @item[:title]  
+    = ga_tracking_snippet("UA-39705570-1")    
+    %meta{:content => "width=device-width, initial-scale=1.0", :name => "viewport"}  
+    %link{:rel => "stylesheet", :href => "/assets/css/bootstrap.css"}   
+    %link{:rel => "stylesheet", :href => "/assets/css/baird.css"}   
+    %link{:rel => "shortcut icon", :href => "http://www.gly.bris.ac.uk/favicon.ico"}   
+    %body
+      / Part 1: Wrap all page content here
+      #wrap
+        %nav.navbar.navbar-default.navbar-fixed-top{:role => "navigation"}
+          .container
+            .navbar-header
+              %button.navbar-toggle{"data-target" => ".navbar-collapse", "data-toggle" => "collapse", :type => "button"}
+                %span.icon-bar
+                %span.icon-bar
+                %span.icon-bar
+              %a.navbar-brand{:href => "/"}Alan Baird
+            .collapse.navbar-collapse
+              %ul.nav.navbar-nav
+                - if @item[:title] == "Research"
+                  %li.active=link_to("Research","/research/")
+                - else
+                  %li=link_to("Research","/research/")
+                - if @item[:title] == "Publications"
+                  %li.active=link_to("Publications","/publications/")
+                - else
+                  %li=link_to("Publications","/publications/")
+                - if @item[:title] == "Links"
+                  %li.active=link_to("Links","/links/")
+                - else
+                  %li=link_to("Links","/links/")
+                - if @item[:title] == "Contact"
+                  %li.active=link_to("Contact","/contact/")
+                - else
+                  %li=link_to("Contact","/contact/")
         .container
-          .navbar-header
-            %button.navbar-toggle{"data-target" => ".navbar-collapse", "data-toggle" => "collapse", :type => "button"}
-              %span.icon-bar
-              %span.icon-bar
-              %span.icon-bar
-            %a.navbar-brand{:href => "/"}Alan Baird
-          .collapse.navbar-collapse
-            %ul.nav.navbar-nav
-              - if @item[:title] == "Research"
-                %li.active=link_to("Research","/research/")
+          .content
+            = yield
+      
+      #footer 
+        .container
+          %ol.breadcrumb
+            - breadcrumbs_trail.each do |item|
+              - if @item == item
+                %li.active
+                  = @item[:nav] || @item[:title]
               - else
-                %li=link_to("Research","/research/")
-              - if @item[:title] == "Publications"
-                %li.active=link_to("Publications","/publications/")
-              - else
-                %li=link_to("Publications","/publications/")
-              - if @item[:title] == "Links"
-                %li.active=link_to("Links","/links/")
-              - else
-                %li=link_to("Links","/links/")
-              - if @item[:title] == "Contact"
-                %li.active=link_to("Contact","/contact/")
-              - else
-                %li=link_to("Contact","/contact/")
-      .container
-        .content
-          = yield
-    
-    #footer 
-      .container
-        %ol.breadcrumb
-          - breadcrumbs_trail.each do |item|
-            - if @item == item
-              %li.active
-                = @item[:nav] || @item[:title]
-            - else
-              - if item  # skip nil items which are gaps in the path
-                %li
-                  = link_to(item[:nav] || item[:title], item.rep_named(:default))
-          %p.text-muted
-            Copyright &copy; Alan F. Baird. Last modified: 
-            = get_pretty_date(item) 
-  %script{:src => "/assets/js/jquery.js"}
-  %script{:src => "/assets/js/bootstrap.min.js"}
-
-
+                - if item  # skip nil items which are gaps in the path
+                  %li
+                    = link_to(item[:nav] || item[:title], item.rep_named(:default))
+            %p.text-muted
+              Copyright &copy; Alan F. Baird. Last modified: 
+              = get_pretty_date(item) 
+    %script{:src => "/assets/js/jquery.js"}
+    %script{:src => "/assets/js/bootstrap.min.js"}
+  
+  
   

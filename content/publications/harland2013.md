@@ -5,7 +5,7 @@ nav: Harland et al. (2013)
 
 ###Deformation in the Rutford ice stream, West Antarctica: measuring shear-wave anisotropy using icequakes
 
-[Sophie Harland](http://www.ed.ac.uk/schools-departments/geosciences/research/earth-planetary-science/people?indv=2959&cw_xml=student.html), [J.-Michael Kendall](http://www1.gly.bris.ac.uk/~jmk/), [Graham Stuart](http://www.see.leeds.ac.uk/people/g.stuart), [Geoff Lloyd](http://www.see.leeds.ac.uk/people/g.lloyd), [Alan F. Baird](http://www1.gly.bris.ac.uk/~baird/), Andrew Smith, Hamish Pritchard, and Alex Brisbourne
+Sophie Harland, [J.-Michael Kendall](http://www1.gly.bris.ac.uk/~jmk/), [Graham Stuart](http://www.see.leeds.ac.uk/people/g.stuart), [Geoff Lloyd](http://www.see.leeds.ac.uk/people/g.lloyd), [Alan F. Baird](http://www1.gly.bris.ac.uk/~baird/), Andrew Smith, Hamish Pritchard, and Alex Brisbourne  
 Annals of Glaciology 54 (64), 105--114, 2013.
 
 **Availability:**

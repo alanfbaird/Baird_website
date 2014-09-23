@@ -25,5 +25,5 @@ title: Links
 ####External
 - [Doug Angus, University of Leeds](http://homepages.see.leeds.ac.uk/~eardang/)
 - [Quentin Fisher, University of Leeds](http://see.leeds.ac.uk/people/q.fisher)
-- [Steve McKinnon, Queen's University](http://www.mine.queensu.ca/People/faculty/SteveMckinnon.html)
+- [Steve McKinnon, Queen's University](http://www.mine.queensu.ca/People/_Faculty/SteveMcKinnon.html)
 - [Laurent Godin, Queen's University](http://www.geol.queensu.ca/faculty/fac-godin/)

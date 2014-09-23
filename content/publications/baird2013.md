@@ -5,7 +5,7 @@ nav: Baird, Kendall, and Angus (2013)
 
 ###Frequency-dependent seismic anisotropy due to fractures: Fluid flow versus scattering
 
-[Alan F. Baird](http://www1.gly.bris.ac.uk/~baird/), [J.-Michael Kendall](http://www1.gly.bris.ac.uk/~jmk/), and [Doug A. Angus](http://homepages.see.leeds.ac.uk/~eardang/)
+[Alan F. Baird](http://www1.gly.bris.ac.uk/~baird/), [J.-Michael Kendall](http://www1.gly.bris.ac.uk/~jmk/), and [Doug A. Angus](http://homepages.see.leeds.ac.uk/~eardang/)  
 Geophysics 78 (2), WA111-–WA122, 2013.
 
 **Availability:**
