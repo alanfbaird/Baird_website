@@ -5,6 +5,10 @@ title: Publications
 ##Publications
 
 ###Published Journal Articles
+-   **Baird, A. F.**, Kendall, J-M., Sparks, R. S. J., Baptie, B., accepted 2015. Transtensional deformation of Montserrat revealed by shear wave splitting. Earth and Planetary Science Letters.
+
+-	Angus, D. A., Dutko, M., Kristiansen, T. G., Fisher, Q. J., Kendall, J-M., Baird, A. F., Verdon, J. P., Barkved, O. I., Yu, J. & Zhao, S., accepted 2015. Integrated hydro-mechanical and seismic modelling of the Valhall reservoir: A case study of predicting subsidence, AVOA and microseismicity. Geomechanics for Energy and the Environment.
+
 -   Kendall, J-M., Verdon, J. P., **Baird, A. F.**, 2014.
     [Evaluating fracture-induced anisotropy using borehole microseismic data](/publications/Kendall2014). CSEG Recorder 39 (2), 56--63.
 
@@ -43,7 +47,7 @@ title: Publications
 
 -   **Baird, A. F.**, in prep 2014. Investigating stress and seismicity in the Charlevoix seismic zone, evidence from seismic anisotropy.
 
--   **Baird, A. F.**, Kendall, J-M., Sparks, R. S. J., Baptie, B., in prep 2014. Shear wave splitting of volcano-tectonic events in Montserrat.
+
     
 ###Other Publications
 
@@ -82,6 +86,8 @@ title: Publications
     The Charlevoix seismic zone, Québec, Canada
 
 ###Selected Conference Talks and Posters
+-   **Baird, A. F.**, Kendall, J-M., Sparks, R. S. J., Baptie, B., 2014. Analysis of shear-wave splitting from volcano-tectonic events at Soufrière Hills volcano, Montserrat. Poster presented at AGU 2014 fall meeting, San Francisco. Abstract S21C-4458. [Poster PDF](/pdfs/Baird_AGU_2014.pdf)
+
 -   **Baird, A. F.**, Bastow, I. D., 2013. Investigating stress and seismicity in the Charlevoix seismic zone,
     evidence from seismic anisotropy. Poster presented at AGU 2013 fall meeting, San Francisco. Abstract DI11A-2165. [Poster PDF](/pdfs/Baird_AGU_2013.pdf)
 
