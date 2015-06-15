@@ -28,7 +28,7 @@ GEM
     kramdown (1.4.1)
     less (2.6.0)
       commonjs (~> 0.2.7)
-    libv8 (3.16.14.5)
+    libv8 (3.16.14.7)
     listen (2.7.9)
       celluloid (>= 0.15.2)
       rb-fsevent (>= 0.9.3)
@@ -36,11 +36,11 @@ GEM
     lumberjack (1.0.9)
     method_source (0.8.2)
     mini_portile (0.6.0)
-    nanoc (3.7.3)
+    nanoc (3.8.0)
       cri (~> 2.3)
-    nanoc-toolbox (0.2.0)
+    nanoc-toolbox (0.2.1)
       jsmin (~> 1.0)
-      nanoc (~> 3.6)
+      nanoc (~> 3.7)
       nokogiri (~> 1.6)
     nokogiri (1.6.3.1)
       mini_portile (= 0.6.0)
@@ -76,3 +76,6 @@ DEPENDENCIES
   nokogiri
   rainpress
   therubyracer
+
+BUNDLED WITH
+   1.10.3
