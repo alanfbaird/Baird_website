@@ -5,9 +5,11 @@ title: Publications
 ##Publications
 
 ###Published Journal Articles
--   **Baird, A. F.**, Kendall, J-M., Sparks, R. S. J., Baptie, B., accepted 2015. Transtensional deformation of Montserrat revealed by shear wave splitting. Earth and Planetary Science Letters.
+-   **Baird, A. F.**, Kendall, J-M., Sparks, R. S. J., Baptie, B., 2015. Transtensional deformation of Montserrat revealed by shear wave splitting. Earth and Planetary Science Letters 425, 179--186.
+	doi:[10.1016/j.epsl.2015.06.006](http://dx.doi.org/10.1016/j.epsl.2015.06.006)
 
--	Angus, D. A., Dutko, M., Kristiansen, T. G., Fisher, Q. J., Kendall, J-M., **Baird, A. F.**, Verdon, J. P., Barkved, O. I., Yu, J. & Zhao, S., accepted 2015. Integrated hydro-mechanical and seismic modelling of the Valhall reservoir: A case study of predicting subsidence, AVOA and microseismicity. Geomechanics for Energy and the Environment.
+-	Angus, D. A., Dutko, M., Kristiansen, T. G., Fisher, Q. J., Kendall, J-M., **Baird, A. F.**, Verdon, J. P., Barkved, O. I., Yu, J. & Zhao, S., accepted 2015. Integrated hydro-mechanical and seismic modelling of the Valhall reservoir: A case study of predicting subsidence, AVOA and microseismicity. Geomechanics for Energy and the Environment 2, 32--44.
+	doi:[10.1016/j.gete.2015.05.002](http://dx.doi.org/10.1016/j.gete.2015.05.002)
 
 -   Kendall, J-M., Verdon, J. P., **Baird, A. F.**, 2014.
     [Evaluating fracture-induced anisotropy using borehole microseismic data](/publications/Kendall2014). CSEG Recorder 39 (2), 56--63.
