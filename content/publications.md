@@ -5,10 +5,13 @@ title: Publications
 ##Publications
 
 ###Published Journal Articles
+-   Profit, M., Dutko, M., Yu, J., Cole, S., Angus, D., **Baird, A.**, 2015. Complementary hydro-mechanical coupled finite/discrete element and microseismic modelling to predict hydraulic fracture propagation in tight shale reservoirs. Computational Particle Mechanics.
+    doi:[10.1007/s40571-015-0081-4](http://dx.doi.org/10.1007/s40571-015-0081-4)
+
 -   **Baird, A. F.**, Kendall, J-M., Sparks, R. S. J., Baptie, B., 2015. Transtensional deformation of Montserrat revealed by shear wave splitting. Earth and Planetary Science Letters 425, 179--186.
 	doi:[10.1016/j.epsl.2015.06.006](http://dx.doi.org/10.1016/j.epsl.2015.06.006)
 
--	Angus, D. A., Dutko, M., Kristiansen, T. G., Fisher, Q. J., Kendall, J-M., **Baird, A. F.**, Verdon, J. P., Barkved, O. I., Yu, J. & Zhao, S., accepted 2015. Integrated hydro-mechanical and seismic modelling of the Valhall reservoir: A case study of predicting subsidence, AVOA and microseismicity. Geomechanics for Energy and the Environment 2, 32--44.
+-	Angus, D. A., Dutko, M., Kristiansen, T. G., Fisher, Q. J., Kendall, J-M., **Baird, A. F.**, Verdon, J. P., Barkved, O. I., Yu, J., Zhao, S., 2015. Integrated hydro-mechanical and seismic modelling of the Valhall reservoir: A case study of predicting subsidence, AVOA and microseismicity. Geomechanics for Energy and the Environment 2, 32--44.
 	doi:[10.1016/j.gete.2015.05.002](http://dx.doi.org/10.1016/j.gete.2015.05.002)
 
 -   Kendall, J-M., Verdon, J. P., **Baird, A. F.**, 2014.
